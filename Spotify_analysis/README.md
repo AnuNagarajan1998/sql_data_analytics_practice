@@ -143,7 +143,7 @@ Spotify_analysis/
 │   └── Spotify_Analysis.pbix
 │
 └── Images/
-    └── dashboard.png
+    └── audiofeatures_vs_popularity.pbix
 ```
 
 ---
